@@ -16,6 +16,7 @@ Scheda tecnica
     Ruolo  :  Developer
 Languages  :  Rust, C++, JavaScript, TypeScript, HTML, CSS, Python, Lua
     Tools  :  Git, GitHub, Node.js, discord.js
+   Lingue  :  Italiano, Russo, Inglese
 ```
 
 <p align="left">
