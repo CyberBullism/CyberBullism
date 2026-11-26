@@ -13,7 +13,6 @@ Scheda tecnica
       GPU  :  AMD Radeon RX 9070 XT
       RAM  :  32 GB DDR5 6000Mhz
     Alias  :  CyberBullism
-  Discord  :  assenzepaterne
     Ruolo  :  Developer
 Languages  :  Rust, C++, JavaScript, TypeScript, HTML, CSS, Python, Lua
     Tools  :  Git, GitHub, Node.js, discord.js
@@ -30,6 +29,10 @@ Languages  :  Rust, C++, JavaScript, TypeScript, HTML, CSS, Python, Lua
 </p>
 
 <br clear="left" />
+
+### 🎮 Discord
+
+<a href="https://discord.com/users/1511080282487525503"><img src="https://lanyard.cnrad.dev/api/1511080282487525503?theme=dark&bg=0a0a0a&borderRadius=10px&animated=true&idleMessage=assenzepaterne" alt="Discord: assenzepaterne" /></a>
 
 ### 🔧 Progetti
 
