@@ -26,9 +26,3 @@ Languages  :  Rust
   <img alt="#7f9cf2" src="https://placehold.co/25x20/7f9cf2/7f9cf2.png" width="25" height="20" />
   <img alt="#dbe4fb" src="https://placehold.co/25x20/dbe4fb/dbe4fb.png" width="25" height="20" />
 </p>
-
-<br clear="left" />
-
-### 🔧 Progetti
-
-[![BACKCORD](https://img.shields.io/badge/BACKCORD-client%20Discord%20nativo%20in%20Rust-3d5bd9?style=for-the-badge&logo=rust&logoColor=white&labelColor=0a0a0a)](https://github.com/Spike848/BACKCORD)
