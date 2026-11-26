@@ -1,5 +1,3 @@
-[![Discord Presence](https://lanyard.cnrad.dev/api/1511080282487525503)](https://discord.com/users/1511080282487525503)
-
 ```zsh
 > CyberBullism — Developer
 ```
