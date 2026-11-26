@@ -31,4 +31,4 @@ Languages  :  Rust
 
 ### 🔧 Progetti
 
-[BACKCORD](https://github.com/Spike848/BACKCORD) — client Discord nativo in Rust
+[BACKCORD](https://github.com/Spike848/BACKCORD)
