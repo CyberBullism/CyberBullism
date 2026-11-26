@@ -1,8 +1,8 @@
 ```zsh
-> CyberBullism — Developer di BACKCORD
+> CyberBullism — Developer
 ```
 
-<img align="left" src="https://raw.githubusercontent.com/Spike848/BACKCORD/main/docs/images/backcord-readme.png" alt="BACKCORD" width="200" />
+<img align="left" src="avatar.gif" alt="CyberBullism" width="200" />
 
 ```csharp
 
