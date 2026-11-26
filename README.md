@@ -14,7 +14,8 @@ Scheda tecnica
       RAM  :  32 GB DDR5 6000Mhz
     Alias  :  CyberBullism
     Ruolo  :  Developer
-Languages  :  Rust
+Languages  :  JavaScript, TypeScript, HTML, CSS, Python, Lua
+    Tools  :  Git, GitHub, Node.js, discord.js
   Project  :  BACKCORD
 ```
 
