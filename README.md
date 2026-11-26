@@ -16,7 +16,6 @@ Scheda tecnica
     Ruolo  :  Developer
 Languages  :  JavaScript, TypeScript, HTML, CSS, Python, Lua
     Tools  :  Git, GitHub, Node.js, discord.js
-  Project  :  BACKCORD
 ```
 
 <p align="left">
