@@ -13,6 +13,7 @@ Scheda tecnica
       GPU  :  AMD Radeon RX 9070 XT
       RAM  :  32 GB DDR5 6000Mhz
     Alias  :  CyberBullism
+  Discord  :  assenzepaterne
     Ruolo  :  Developer
 Languages  :  Rust, C++, JavaScript, TypeScript, HTML, CSS, Python, Lua
     Tools  :  Git, GitHub, Node.js, discord.js
